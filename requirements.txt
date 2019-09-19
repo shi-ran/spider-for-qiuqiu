@@ -1,0 +1,6 @@
+bottle
+pyexcel-xls
+requests
+unicodecsv
+simplejson
+
